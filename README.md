@@ -13,7 +13,6 @@
 This is my HNG DevOps Stage 0 task.
 It demonstrates how to:
 
-- Set up a GitHub Actions workflow for CI/CD
 - Deploy and configure an NGINX web server on a live Ubuntu instance
 - Serve a custom HTML webpage accessible publicly over the internet
 
