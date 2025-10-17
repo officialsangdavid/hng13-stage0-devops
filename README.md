@@ -21,4 +21,4 @@ How this works is that, Whenever there is an update to the main branch, the Pipe
 
 ## Server IP/Domain
 
-**IP Address / Domain:\*http://3.16.111.33**
+**IP Address / Domain: http://3.16.111.33**
